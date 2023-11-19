@@ -1,4 +1,4 @@
-package src.com.teachmeskills.lesson5.task1;
+package src.com.teachmeskills.lesson6.task1;
 
 public class CreditCard {
 

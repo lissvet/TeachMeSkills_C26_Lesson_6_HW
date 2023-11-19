@@ -1,4 +1,4 @@
-package src.com.teachmeskills.lesson5.task2;
+package src.com.teachmeskills.lesson6.task2;
 
 public class Student {
 

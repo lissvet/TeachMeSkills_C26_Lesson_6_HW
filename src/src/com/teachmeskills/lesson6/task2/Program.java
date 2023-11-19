@@ -1,4 +1,4 @@
-package src.com.teachmeskills.lesson5.task2;
+package src.com.teachmeskills.lesson6.task2;
 /**Create a class to describe a student in our group.
  * Class fields: first name, last name, passport number, group name.
  * Create objects of this class for each student in our group.

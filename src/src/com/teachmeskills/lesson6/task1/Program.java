@@ -1,4 +1,4 @@
-package src.com.teachmeskills.lesson5.task1;
+package src.com.teachmeskills.lesson6.task1;
 /**Create a CreditCard class with the fields account number and current amount in the account.
  * Create one constructor with two parameters. Create methods for increasing and decreasing the amount,
    displaying information on the console and perform operations with them.*/
