@@ -1,4 +1,4 @@
-package src.com.teachmeskills.lesson6.task1;
+package src.com.teachmeskills.lesson6.task0;
 
 public class Account {
 
